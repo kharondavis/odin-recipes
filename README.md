@@ -1,1 +1,1 @@
-# odin-recipes
+Recipes website to focus on HTML creation w/ links to seperate pages. 
