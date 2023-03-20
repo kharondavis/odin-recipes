@@ -6,3 +6,26 @@ body {
     margin: 0;
     padding: 0;
 }
+
+h1 {
+    color: orangered;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    background-color: #ffb499;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    margin: 25px;
+    font-weight: 700;
+}
+
+a {
+    color: orangered;
+}
