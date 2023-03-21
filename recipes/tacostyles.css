@@ -15,9 +15,10 @@ h1, h3, h4 {
 
 h1 {
     text-align: center;
-    margin-top: 20px;
+    margin: auto;
     margin-bottom: 25px;
-    background-color: #fccb69
+    background-color: #fccb69;
+    padding: 15px;
 }
 
 img {
@@ -30,6 +31,8 @@ img {
 p {
     margin-left: 5px;
 }
+
+
 
 #myBtn {
     display: none;
